@@ -93,3 +93,8 @@ To handle unreliable networks in venues (bad Wi-Fi), the system implements an **
 > This project is currently in **Closed Beta**. I am open to technical discussions regarding the architecture or potential partnerships.
 
 [LinkedIn](https://www.linkedin.com/in/leotangram/) | [GitHub Profile](https://github.com/leotangram) | [leotangram](https://leoomana.com)
+
+---
+## 📝 License
+Copyright © 2026 Leonardo Omaña. All rights reserved.
+This project is proprietary and confidential. Unauthorized copying of this file, via any medium is strictly prohibited.
